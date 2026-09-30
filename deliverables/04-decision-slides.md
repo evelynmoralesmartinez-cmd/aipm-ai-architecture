@@ -1,6 +1,6 @@
 # 04 · Decision Slides — Vacation Policy Assistant
 
-The presented deck has three slides (yellow, orange, red). Deck: **[paste the shared link or add the exported PDF here]**
+The presented deck has a cover plus three slides (yellow, orange, red). Deck: [04-decision-slides.pdf](04-decision-slides.pdf)
 
 This file gives the text of each slide, so it can be read without the deck. All case details are synthetic.
 
